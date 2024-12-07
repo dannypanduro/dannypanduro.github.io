@@ -14,7 +14,7 @@ name                     : &name "Danny (Richard) Panduro-Allanson"
 description              : &description "Danny Panduro's Personal Website where I host links to projects, papers, and my CV."
 url                      : https://dannypanduro.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "dannypanduro/dannypanduro.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Danny Panduro"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "I recieved my undergraduate and master's in geoscience from the University of Las Vegas, Nevada. I enjoy learning about all fields of science,
+  bio              : "I received my undergraduate and master's in geoscience from the University of Las Vegas, Nevada. I enjoy learning about all fields of science,
   and hope to share more of my experience as a researcher."
   location         : "New Mexico, USA"
   employer         : "Researcher"
