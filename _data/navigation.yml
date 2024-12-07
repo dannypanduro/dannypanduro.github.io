@@ -12,7 +12,8 @@ main:
     url: /talks/    
 
   - title: "CV"
-    url: /cv/
+    url: /files/Panduro_CV_Website_Dec2024.pdf
+  #  url: /cv/
 
   #- title: "Teaching"
   #  url: /teaching/    
