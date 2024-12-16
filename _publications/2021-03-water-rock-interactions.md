@@ -2,7 +2,7 @@
 title: "In situ resources from water-rock interactions for human exploration of Mars"
 collection: publications
 category: conferences
-permalink: /publication/2024-03-water-rock-interactions
+permalink: /publication/2021-03-water-rock-interactions
 excerpt: 'This paper discusses the potential of generating hydrogen gas in situ on Mars through water-rock interactions.'
 date: 2021-03
 venue: '52nd Lunar Planetary Science Conference'
