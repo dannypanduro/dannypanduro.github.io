@@ -1,3 +1,4 @@
+yaml
 ---
 title: "Examining the spatial periodicity of force chains in polycrystal models"
 collection: publications
