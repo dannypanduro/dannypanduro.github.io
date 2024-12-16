@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Examining the spatial periodicity of force chains and strain localization in polycrystal models"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: Thesis
+permalink: /publication/panduro-thesis
+excerpt: 'My master's thesis which adapted an analysis to measure periodicity in an image of patterned stress.'
+date: 2023-12-18
+venue: 'UNLV Theses, Dissertations, Professional Papers, and Capstones'
+paperurl: 'http://dannypanduro.github.io/files/Panduro_MS_Thesis.pdf'
+citation: 'Panduro-Allanson, Richard D., "Examining the Spatial Periodicity of Force Chains and Strain Localization in Polycrystal Models" (2023). UNLV Theses, Dissertations, Professional Papers, and Capstones. 4903.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+My master's thesis which adapted a signal processing method, the Autoperiod Method by Vlachos et al., 2005, to measure the periodicity of patterned features of stress and strain. Images of stress and strain were generated from finite element models of polycrystals that were elastically heterogeneous. The adaption of the Autoperiod method's capabilities were tested with toy images of stripes and later applied to stress and strain images of models with varying degree of elastic heterogeneity. 
