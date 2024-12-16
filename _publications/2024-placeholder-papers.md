@@ -1,5 +1,4 @@
 ---
-title: "Soon to come."
-category: manuscript
+category: manuscripts
 excerpt: 'Papers are under construction.'
 ---
