@@ -5,15 +5,21 @@
 # prevent it from being included in the site.
 
 main:
+  #- title: "News"
+  #  url: /news/
+  
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
 
   - title: "CV"
     url: /files/Panduro_CV_Website_Dec2024.pdf
   #  url: /cv/
+
+
+  #- title: "Talks"
+  #  url: /talks/    
+
 
   #- title: "Teaching"
   #  url: /teaching/    
