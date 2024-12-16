@@ -4,6 +4,7 @@ collection: publications
 category: thesis
 permalink: /publication/2023-12-panduro-thesis
 excerpt: 'My master's thesis which adapted an analysis to measure periodicity in an image of patterned stress.'
+date: 2023-12-18
 venue: 'UNLV Theses, Dissertations, Professional Papers, and Capstones'
 paperurl: 'http://dannypanduro.github.io/files/Panduro_MS_Thesis.pdf'
 citation: 'Panduro-Allanson, Richard D., "Examining the Spatial Periodicity of Force Chains and Strain Localization in Polycrystal Models" (2023). UNLV Theses, Dissertations, Professional Papers, and Capstones. 4903.'
