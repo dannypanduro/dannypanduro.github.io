@@ -1,7 +1,7 @@
 ---
 title: "Examining the spatial periodicity of force chains in polycrystal models"
 collection: publications
-category: manuscript
+category: thesis
 permalink: /publication/2023-12-panduro-thesis
 excerpt: 'My master's thesis which adapted an analysis to measure periodicity in an image of patterned stress.'
 venue: 'UNLV Theses, Dissertations, Professional Papers, and Capstones'
