@@ -1,5 +1,5 @@
 ---
-title: "Examining the spatial periodicity of force chains in polycrystal models"
+title: "Examining the Spatial Periodicity of Force Chains and Strain Localization in Polycrystal Models"
 collection: publications
 category: thesis
 permalink: /publication/2023-12-panduro-thesis
