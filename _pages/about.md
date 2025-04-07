@@ -14,9 +14,11 @@ redirect_from:
 # Selected Experience
 
 ## 💻 Master's Program
-I graduated with a M.S. in Geoscience with Dr. Pamela Burnley as my advisor. I gained great insights into geophysics during the program, and developed my interests into solid mechanics and implementing data analysis through Python, Matlab, Mathematica, and R.
+I graduated with a M.S. in Geoscience with Dr. Pamela Burnley as my advisor. I gained great insights into geophysics, and developed my interests of solid mechanics and programming.
+<!-- data analysis through Python, Matlab, Mathematica, and R.-->
 
-My thesis included simulating stress in elastically heterogeneous, and porous polycrystals using finite element analysis. We then measured the spatial periodicity of stress and strain patterning in our polycyrstals models. I implemented the AutoPeriod method (Vlachos et al., 2005) in Python, and was able to detect reoccuring horizontal periodicities of the stress and strain features.  
+My thesis included simulating stress in elastically heterogeneous, and porous polycrystals using finite element analysis. We measured the spatial periodicity of stress and strain patterning in our polycyrstals models. 
+<!-- I implemented the AutoPeriod method (Vlachos et al., 2005) in Python, and was able to detect reoccuring horizontal periodicities of the stress and strain features. -->  
 
 ## 🧪 Undergraduate Program
 I graduated with a B.S. in Geology from the Univeristy of Nevada, Las Vegas in May 2020.
