@@ -19,8 +19,6 @@ I graduated with a M.S. in Geoscience with Dr. Pamela Burnley as my advisor. I g
 
 My thesis included simulating stress in elastically heterogeneous, and porous polycrystals using finite element analysis. We measured the spatial periodicity of stress and strain patterning in our polycyrstals models. 
 ![Image of Force Chains in 2D Polycrystal](/images/ForceChains_2DPolycrystal_1.png){: .align-center width = "300 px"}
-
-
 <!-- I implemented the AutoPeriod method (Vlachos et al., 2005) in Python, and was able to detect reoccuring horizontal periodicities of the stress and strain features. -->  
 
 ## 🧪 Undergraduate Program
@@ -29,6 +27,8 @@ During my undergrad, I worked in Dr. Elisabeth Hausrath's laboratory and gained 
 
 For my undergraduate research project, Water-Interactions on Mars: Production of H2
 and other valuable resources, I worked under the guidance of Dr. Christopher Adcock. We conducted dissolution experiments of Mars simulated soils in a carbon dioxide rich atmosphere, and measured hydrogen gas production. 
+
+![Image of Simulated Martian Soil Experiment](/images/H2_GasExp_4_1.jpg){: .align-center width = "600 px"}
 
 <!-- I assisted with several experiments including: mineral synthesis, dissolution experiments in the field, and laboratory, and algae and bacterial culturing. I also assisted using instruments including: gas chromatograph, atomic absorption spectrophotometer, scanning electron microscope, and inductively coupled plasma mass spectrometer. -->
 
