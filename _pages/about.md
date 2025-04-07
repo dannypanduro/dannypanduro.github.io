@@ -26,7 +26,7 @@ I graduated with a B.S. in Geology from the Univeristy of Nevada, Las Vegas in M
 During my undergrad, I worked in Dr. Elisabeth Hausrath's laboratory and gained a wide array of geochemical and geomicrobial experience. 
 
 For my undergraduate research project, Water-Interactions on Mars: Production of H2
-and other valuable resources, I worked under the guidance of Dr. Christopher Adcock. We conducted dissolution experiments of Mars simulated soils in a carbon dioxide rich atmosphere, and measured hydrogen gas production. 
+and other valuable resources, I worked under the guidance of Dr. Christopher Adcock. We conducted dissolution experiments of simulated Martian soils in a carbon dioxide rich atmosphere, and measured hydrogen gas production. 
 
 ![Image of Simulated Martian Soil Experiment](/images/H2_GasExp_4_1.jpg){: .align-center width = "600 px"}
 
