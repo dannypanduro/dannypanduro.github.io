@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Image of Force Chains in 2D Polycrystal](/images/ForceChains_2DPolycrystal_1.png){: .align-right width = "300 px"}
+
 📚 My research interest is exploring the behavior of anisotropic materials through simulations and numerical methods.
 
 🧠 I am currently learning more about elastic waves, machine learning, deep learning, and programming. 
@@ -18,6 +18,9 @@ I graduated with a M.S. in Geoscience with Dr. Pamela Burnley as my advisor. I g
 <!-- data analysis through Python, Matlab, Mathematica, and R.-->
 
 My thesis included simulating stress in elastically heterogeneous, and porous polycrystals using finite element analysis. We measured the spatial periodicity of stress and strain patterning in our polycyrstals models. 
+![Image of Force Chains in 2D Polycrystal](/images/ForceChains_2DPolycrystal_1.png){: .align-center width = "300 px"}
+
+
 <!-- I implemented the AutoPeriod method (Vlachos et al., 2005) in Python, and was able to detect reoccuring horizontal periodicities of the stress and strain features. -->  
 
 ## 🧪 Undergraduate Program
