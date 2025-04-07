@@ -23,8 +23,7 @@ author: # Biographic information
   avatar           : "Panduro_headshot.png"
   name             : "Danny Panduro"
   pronouns         : # example: "he/him"  
-  bio              : "Researcher" #"I earned my undergraduate and master's in Geoscience from the University of Las Vegas, Nevada. I love learning about all fields of science,
-  and look forward to sharing my experiences as a researcher."
+  bio              : "Researcher" 
   location         : "New Mexico, USA"
   employer         : "Researcher"
   uri              : # URL
